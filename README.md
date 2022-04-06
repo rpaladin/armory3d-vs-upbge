@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>Armory3D 🆚 UPBGE</h1>
-  <p>A detailed comparison of pros &amp; cons for Armory3D &amp; UPBGE.</p>
+  <h1>Armory3D 🆚UPBGE</h1>
+  <p>A detailed comparison of pros &amp; cons for <a href="https://www.armory3d.org">Armory3D</a> &amp; <a href="https://www.upbge.org">UPBGE</a>.</p>
 </div>
 <hr />
 <table align="center">
@@ -9,12 +9,12 @@
     <th>
       <br />
       <img src="https://avatars.githubusercontent.com/u/20436620?s=200&v=4" width=64 />
-      <p><a href="https://www.armory3d.org">Armory3D</a></p>
+      <p>Armory3D</p>
     </th>
     <th>
       <br />
       <img src="https://avatars.githubusercontent.com/u/16006310?s=200&v=4" width=64 />
-      <p><a href="https://www.upbge.org">UPBGE</a></p>
+      <p>UPBGE</p>
     </th>
   </tr>
   <tr align="center">
@@ -30,7 +30,7 @@
   <tr align="center">
     <td>Supported Platforms</td>
     <td>Desktop, Mobile, Browser, Console</a>, <a href="https://github.com/armory3d/armory/wiki">more</td>
-    <td><a href="https://upbge.org/#/features">Desktop</a></td>
+    <td>Desktop</td>
   </tr>
     <tr align="center">
     <td>Logic Methods</td>

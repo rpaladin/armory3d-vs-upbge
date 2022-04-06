@@ -29,7 +29,12 @@
   </tr>
   <tr align="center">
     <td>Supported Platforms</td>
-    <td><a href="https://github.com/armory3d/armory/wiki">Desktop, Mobile, Browser, Console</a>, more</td>
+    <td>Desktop, Mobile, Browser, Console</a>, <a href="https://github.com/armory3d/armory/wiki">more</td>
     <td><a href="https://upbge.org/#/features">Desktop</a></td>
+  </tr>
+    <tr align="center">
+    <td>Logic Methods</td>
+    <td>Haxe, C, Rust, WASM, JavaScript, Logic-Nodes</td>
+    <td>Python, Python Components, Logic-Nodes, Logic-Bricks</td>
   </tr>
 </table>

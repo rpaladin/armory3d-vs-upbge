@@ -9,12 +9,12 @@
     <th>
       <br />
       <img src="https://avatars.githubusercontent.com/u/20436620?s=200&v=4" width=64 />
-      <p>Armory3D</p>
+      <p><a href="https://www.armory3d.org">Armory3D</a></p>
     </th>
     <th>
       <br />
       <img src="https://avatars.githubusercontent.com/u/16006310?s=200&v=4" width=64 />
-      <p>UPBGE</p>
+      <p><a href="https://www.upbge.org">UPBGE</a></p>
     </th>
   </tr>
   <tr align="center">

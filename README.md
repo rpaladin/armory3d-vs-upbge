@@ -13,34 +13,34 @@
     <th>
       <table>
         <tr>
-          <th style="width:50%">Features</th>
-          <th>Basic</th>
-          <th>Pro</th>
+          <th>FEATURES</th>
+          <th>PRO</th>
+          <th>CON</th>
         </tr>
         <tr>
-          <td>Sample text</td>
-          <td><i class="fa fa-remove"></i></td>
-          <td><i class="fa fa-check"></i></td>
+          <td>abc</td>
+          <td></td>
+          <td></td>
         </tr>
         <tr>
-          <td>Sample text</td>
-          <td><i class="fa fa-check"></i></td>
-          <td><i class="fa fa-check"></i></td>
+          <td>abc</td>
+          <td></td>
+          <td></td>
         </tr>
         <tr>
-          <td>Sample text</td>
-          <td><i class="fa fa-check"></i></td>
-          <td><i class="fa fa-check"></i></td>
+          <td>abc</td>
+          <td></td>
+          <td></td>
         </tr>
         <tr>
-          <td>Sample text</td>
-          <td><i class="fa fa-remove"></i></td>
-          <td><i class="fa fa-check"></i></td>
+          <td>abc</td>
+          <td></td>
+          <td></td>
         </tr>
         <tr>
-          <td>Sample text</td>
-          <td><i class="fa fa-check"></i></td>
-          <td><i class="fa fa-check"></i></td>
+          <td>abc</td>
+          <td></td>
+          <td></td>
         </tr>
       </table>
     </th>
@@ -48,34 +48,34 @@
     <th>
       <table>
         <tr>
-          <th style="width:50%">Features</th>
-          <th>Basic</th>
-          <th>Pro</th>
+          <th>FEATURES</th>
+          <th>PRO</th>
+          <th>CON</th>
         </tr>
         <tr>
-          <td>Sample text</td>
-          <td><i class="fa fa-remove"></i></td>
-          <td><i class="fa fa-check"></i></td>
+          <td>abc</td>
+          <td></td>
+          <td></td>
         </tr>
         <tr>
-          <td>Sample text</td>
-          <td><i class="fa fa-check"></i></td>
-          <td><i class="fa fa-check"></i></td>
+          <td>abc</td>
+          <td></td>
+          <td></td>
         </tr>
         <tr>
-          <td>Sample text</td>
-          <td><i class="fa fa-check"></i></td>
-          <td><i class="fa fa-check"></i></td>
+          <td>abc</td>
+          <td></td>
+          <td></td>
         </tr>
         <tr>
-          <td>Sample text</td>
-          <td><i class="fa fa-remove"></i></td>
-          <td><i class="fa fa-check"></i></td>
+          <td>abc</td>
+          <td></td>
+          <td></td>
         </tr>
         <tr>
-          <td>Sample text</td>
-          <td><i class="fa fa-check"></i></td>
-          <td><i class="fa fa-check"></i></td>
+          <td>abc</td>
+          <td></td>
+          <td></td>
         </tr>
       </table>
     </th>

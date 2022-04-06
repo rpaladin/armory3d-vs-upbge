@@ -5,79 +5,31 @@
 <hr />
 <table align="center">
   <tr>
-    <th>Armory3D</th>
-    <th>UPBGE</th>
+    <th></th>
+    <th>
+      <br />
+      <img src="https://avatars.githubusercontent.com/u/20436620?s=200&v=4" width=64 />
+      <p>Armory3D</p>
+    </th>
+    <th>
+      <br />
+      <img src="https://avatars.githubusercontent.com/u/16006310?s=200&v=4" width=64 />
+      <p>UPBGE</p>
+    </th>
   </tr>
-  <tr>
-    <!-- Armory3D -->
-    <th>
-      <table>
-        <tr>
-          <th>FEATURES</th>
-          <th>PRO</th>
-          <th>CON</th>
-        </tr>
-        <tr>
-          <td>abc</td>
-          <td></td>
-          <td></td>
-        </tr>
-        <tr>
-          <td>abc</td>
-          <td></td>
-          <td></td>
-        </tr>
-        <tr>
-          <td>abc</td>
-          <td></td>
-          <td></td>
-        </tr>
-        <tr>
-          <td>abc</td>
-          <td></td>
-          <td></td>
-        </tr>
-        <tr>
-          <td>abc</td>
-          <td></td>
-          <td></td>
-        </tr>
-      </table>
-    </th>
-    <!-- UPBGE -->
-    <th>
-      <table>
-        <tr>
-          <th>FEATURES</th>
-          <th>PRO</th>
-          <th>CON</th>
-        </tr>
-        <tr>
-          <td>abc</td>
-          <td></td>
-          <td></td>
-        </tr>
-        <tr>
-          <td>abc</td>
-          <td></td>
-          <td></td>
-        </tr>
-        <tr>
-          <td>abc</td>
-          <td></td>
-          <td></td>
-        </tr>
-        <tr>
-          <td>abc</td>
-          <td></td>
-          <td></td>
-        </tr>
-        <tr>
-          <td>abc</td>
-          <td></td>
-          <td></td>
-        </tr>
-      </table>
-    </th>
+  <tr align="center">
+    <td>Blender Foundation Support</td>
+    <td><a href="https://www.youtube.com/watch?v=EaMT6Nyu79w">Officially</a></td>
+    <td><a href="https://www.youtube.com/watch?v=hS7iV3NfddI&start=512">Unofficially</a></td>
+  </tr>
+    <tr align="center">
+    <td>Development Team</td>
+    <td><a href="https://www.github.com/MoritzBrueckner">MoritzBrueckner</a>, <a href="https://www.github.com/tong">tong</a>, <a href="https://www.github.com/QuantumCoderQC">QuantumCoderQC<br /><a href="https://www.github.com/Naxela">Naxela</a>, <a href="https://www.github.com/rpaladin">RPaladin</a></td>
+      <td><a href="https://www.github.com/youle31">youle31</a>, <a href="https://www.github.com/lordloki">lordloki</a>, <a href="https://www.github.com/izazed">izazed</a>, <a href="https://www.github.com/mysticfall">mysticfall</a></td>
+  </tr>
+  <tr align="center">
+    <td>Supported Platforms</td>
+    <td><a href="https://github.com/armory3d/armory/wiki">Desktop, Mobile, Browser, Console</a>, more</td>
+    <td><a href="https://upbge.org/#/features">Desktop</a></td>
   </tr>
 </table>

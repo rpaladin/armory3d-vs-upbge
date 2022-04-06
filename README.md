@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>Armory3D 🆚UPBGE</h1>
-  <p>A detailed comparison of pros &amp; cons for <a href="https://www.armory3d.org">Armory3D</a> &amp; <a href="https://www.upbge.org">UPBGE</a>.</p>
+  <h1>Armory3D 🆚 UPBGE</h1>
+  <p>A detailed comparison of pros and cons for <a href="https://www.armory3d.org">Armory3D</a> &amp; <a href="https://www.upbge.org">UPBGE</a>.</p>
 </div>
 <hr />
 <table align="center">

@@ -28,6 +28,11 @@
       <td><a href="https://www.github.com/youle31">youle31</a>, <a href="https://www.github.com/lordloki">lordloki</a>, <a href="https://www.github.com/izazed">izazed</a>, <a href="https://www.github.com/mysticfall">mysticfall</a></td>
   </tr>
   <tr align="center">
+    <td>Community</td>
+    <td>Large community,<br />but minimal activity beyond contribtors</td>
+    <td>Small, but very active community</td>
+  </tr>
+  <tr align="center">
     <td>Supported Platforms</td>
     <td>Desktop, Mobile, Browser, Console</a>, <a href="https://github.com/armory3d/armory/wiki">more</td>
     <td>Desktop</td>

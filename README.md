@@ -25,7 +25,7 @@
    <!-- Development Status -->
   <tr align="center">
     <td>Development Status</td>
-    <td>Original creator, <a href="https://www.github.com/luboslenco">Lubos Lenco</a>, has moved on<br />to <a href="https://www.armorpaint.org">ArmorPaint</a> after being awarded a <a href="https://www.youtube.com/watch?v=M1X2Qdz8QDc">EpicMegaGrant</a> by Epic Games (company of Unreal Engine)<br />Current development is maintained by community contributors</td>
+    <td>Original creator, <a href="https://www.github.com/luboslenco">Lubos Lenco</a>, has moved on<br />to <a href="https://www.armorpaint.org">ArmorPaint</a> after being awarded a <a href="https://www.youtube.com/watch?v=M1X2Qdz8QDc">EpicMegaGrant</a> by Epic Games<br />(company of Unreal Engine)<br />Current development is maintained by community contributors</td>
     <td>A spin-off of Blender's old Game Engine<br />Original creator, <a href="https://www.github.com/panzergame">Tristan Porteries</a>, stopped development after internal disagreements with the organization team and additionally some in-real-life distractions<br />The project is maintained by community contributors</td>
   </tr>
   <!-- Development Team -->

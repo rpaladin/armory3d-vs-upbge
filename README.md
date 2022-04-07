@@ -37,7 +37,7 @@
    <!-- Community -->
   <tr align="center">
     <td>Community</td>
-    <td>Large <a href="https://discord.gg/axq6qWV">community</a>,<br />but minimal activity beyond contribtors</td>
+    <td>Large <a href="https://discord.gg/axq6qWV">community</a>,<br />but minimal activity beyond contributors</td>
     <td>Small, but very active <a href="https://discord.gg/DsTJ8Ga">community</a></td>
   </tr>
   <!-- Blender Workflow --> 

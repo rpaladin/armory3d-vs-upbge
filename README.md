@@ -31,8 +31,8 @@
   <!-- Development Roadmap -->
   <tr align="center">
     <td>Development Roadmap</td>
-    <td>No exact roadmap is specified currently</td>
-    <td>Awaiting Blender developers for Vulkan Port, EEVEE Rewrite & Real-Time Compositing Nodes</td>
+    <td>No exact roadmap is specified except for monthly contributions</td>
+    <td>Only bug fixes - awaiting Blender developers for Vulkan Port, EEVEE Rewrite & Real-Time Compositing Nodes</td>
   </tr>
   <!-- Development Team -->
   <tr align="center">
@@ -40,17 +40,23 @@
     <td><a href="https://www.github.com/MoritzBrueckner">MoritzBrueckner</a>, <a href="https://www.github.com/tong">tong</a>, <a href="https://www.github.com/QuantumCoderQC">QuantumCoderQC<br /><a href="https://www.github.com/Naxela">Naxela</a>, <a href="https://www.github.com/rpaladin">RPaladin</a></td>
       <td><a href="https://www.github.com/youle31">youle31</a>, <a href="https://www.github.com/lordloki">lordloki</a>, <a href="https://www.github.com/izazed">izazed</a>, <a href="https://www.github.com/mysticfall">mysticfall</a></td>
   </tr>
-   <!-- Community -->
+  <!-- Community -->
   <tr align="center">
     <td>Community</td>
     <td>Large <a href="https://discord.gg/axq6qWV">community</a>,<br />but minimal activity beyond contributors</td>
     <td>Small, but very active <a href="https://discord.gg/DsTJ8Ga">community</a></td>
   </tr>
-  <!-- Blender Intergration --> 
+  <!-- Learning Difficulty -->
   <tr align="center">
-    <td>Blender Intergration</td>
+    <td>Learning Difficulty</td>
+    <td>Compatibility differences between Blender & Armory Player are high - additional unsupported elements can be seen <a href="https://www.github.com/armory3d/armory/wiki/supported_nodes">here</a> & <a href="https://www.github.com/armory3d/armory/wiki/supported_particles">here</a></td>
+    <td>Impressive 95% Blender graphics compatibility at runtime - including BPY code!</td>
+  </tr>
+  <!-- Blender Integration --> 
+  <tr align="center">
+    <td>Blender Integration</td>
     <td>Add-On</td>
-    <td>Cloned Source</td>
+    <td>Cloned (and modified) Source</td>
   </tr>
   <!-- Supported Platforms -->
   <tr align="center">

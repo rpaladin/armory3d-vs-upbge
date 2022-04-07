@@ -46,17 +46,17 @@
     <td>Large <a href="https://discord.gg/axq6qWV">community</a>,<br />but minimal activity beyond contributors</td>
     <td>Small, but very active <a href="https://discord.gg/DsTJ8Ga">community</a></td>
   </tr>
-  <!-- Learning Difficulty -->
+  <!-- Integration Method --> 
   <tr align="center">
-    <td>Learning Difficulty</td>
-    <td>Compatibility differences between Blender & Armory Player are high - additional unsupported elements can be seen <a href="https://www.github.com/armory3d/armory/wiki/supported_nodes">here</a> & <a href="https://www.github.com/armory3d/armory/wiki/supported_particles">here</a></td>
-    <td>Impressive 95% Blender graphics compatibility at runtime - including BPY code!</td>
-  </tr>
-  <!-- Blender Integration --> 
-  <tr align="center">
-    <td>Blender Integration</td>
+    <td>Integration Method</td>
     <td>Add-On</td>
     <td>Cloned (and modified) Source</td>
+  </tr>
+  <!-- Seamless Compatibility -->
+  <tr align="center">
+    <td>Seamless Compatibility</td>
+    <td>Compatibility differences between Blender & Armory Player are high - additional unsupported elements can be seen <a href="https://www.github.com/armory3d/armory/wiki/supported_nodes">here</a> & <a href="https://www.github.com/armory3d/armory/wiki/supported_particles">here</a></td>
+    <td>Impressive 95% Blender graphics compatibility at runtime - including BPY code!</td>
   </tr>
   <!-- Supported Platforms -->
   <tr align="center">

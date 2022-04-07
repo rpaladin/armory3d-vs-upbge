@@ -25,8 +25,14 @@
    <!-- Development Status -->
   <tr align="center">
     <td>Development Status</td>
-    <td>Original creator, <a href="https://www.github.com/luboslenco">Lubos Lenco</a>, has moved on<br />to <a href="https://www.armorpaint.org">ArmorPaint</a> after being awarded a <a href="https://www.youtube.com/watch?v=M1X2Qdz8QDc">EpicMegaGrant</a> by Epic Games<br />(company of Unreal Engine)<br />Current development is maintained by community contributors</td>
+    <td>Original creator, <a href="https://www.github.com/luboslenco">Lubos Lenco</a>, has moved on to <a href="https://www.armorpaint.org">ArmorPaint</a> after being awarded a <a href="https://www.youtube.com/watch?v=M1X2Qdz8QDc">EpicMegaGrant</a> by Epic Games<br />(company of Unreal Engine)<br />Current development is maintained by community contributors</td>
     <td>A spin-off of Blender's old Game Engine<br />Original creator, <a href="https://www.github.com/panzergame">Tristan Porteries</a>, stopped development after internal disagreements with the organization team and additionally some in-real-life distractions<br />The project is maintained by community contributors</td>
+  </tr>
+  <!-- Development Roadmap -->
+  <tr align="center">
+    <td>Development Roadmap</td>
+    <td>No exact roadmap is specified currently</td>
+    <td>Awaiting Blender developers for Vulkan Port, EEVEE Rewrite & Real-Time Compositing Nodes</td>
   </tr>
   <!-- Development Team -->
   <tr align="center">
@@ -40,9 +46,9 @@
     <td>Large <a href="https://discord.gg/axq6qWV">community</a>,<br />but minimal activity beyond contributors</td>
     <td>Small, but very active <a href="https://discord.gg/DsTJ8Ga">community</a></td>
   </tr>
-  <!-- Blender Workflow --> 
+  <!-- Blender Intergration --> 
   <tr align="center">
-    <td>Blender Workflow</td>
+    <td>Blender Intergration</td>
     <td>Add-On</td>
     <td>Cloned Source</td>
   </tr>

@@ -4,7 +4,7 @@
 </div>
 <table align="center">
   <tr>
-    <th></th>
+    <th>‎</th>
     <th>
       <br />
       <img src="https://avatars.githubusercontent.com/u/20436620?s=200&v=4" width=64 />

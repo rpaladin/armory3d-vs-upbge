@@ -49,8 +49,14 @@
   <!-- Learning -->
   <tr align="center">
     <td>Learning</td>
-    <td>Some tutorials, but many are outdated.<br />The manual is up-to-date however and is actively maintained.</td>
-    <td>Many tutorials, but several are outdated or simply incompatible due to UPBGE 0.2.x/0.3.x version variations.</td>
+    <td>Some tutorials; many are outdated.<br />Mnual is up to date however and is actively maintained.</td>
+    <td>Very many tutorials, but most are outdated or simply incompatible due to UPBGE 0.2.x/0.3.x version variations.<br />Official Blender tutorials work well with UPBGE 0.3+ versions however. And new tutorials are being made by several contributors arbitrarily time to time.</td>
+  </tr>
+  <!-- Blender Compatibility -->
+  <tr align="center">
+    <td>Blender Compatibility</td>
+    <td>Blender 2.93.8 LTS</td>
+    <td>Blender 3.2 (Alpha)</td>
   </tr>
   <!-- Integration Method -->
   <tr align="center">
@@ -58,9 +64,9 @@
     <td>Add-On</td>
     <td>Cloned (and modified) Source</td>
   </tr>
-  <!-- Seamless Compatibility -->
+  <!-- Runtime Compatibility -->
   <tr align="center">
-    <td>Seamless Compatibility</td>
+    <td>Runtime Compatibility</td>
     <td>Compatibility differences between Blender & Armory Player are high<br />Additional unsupported elements can be seen <a href="https://www.github.com/armory3d/armory/wiki/supported_nodes">here</a> & <a href="https://www.github.com/armory3d/armory/wiki/supported_particles">here</a></td>
     <td>Impressive ~95% Blender graphics compatibility<br />at runtime including BPY code!</td>
   </tr>

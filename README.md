@@ -55,8 +55,8 @@
   <!-- Blender Compatibility -->
   <tr align="center">
     <td>Blender Compatibility</td>
-    <td>Blender 2.93.8 LTS</td>
-    <td>Blender 3.2 (Alpha)</td>
+    <td>Blender 2.93.8 LTS<br />&<br />Blender 2.79 <a href="https://github.com/armory3d/armsdk/releases?q=0&expanded=true">(legacy/outdated)</a></td>
+    <td>Blender 3.2 (Alpha)<br />&<br />Blender 2.79.7 (outdated/legacy)</td>
   </tr>
   <!-- Integration Method -->
   <tr align="center">

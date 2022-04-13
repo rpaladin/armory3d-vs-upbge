@@ -26,12 +26,12 @@
   <tr align="center">
     <td>Development Status</td>
     <td>Original creator, <a href="https://www.github.com/luboslenco">Lubos Lenco</a>, has moved on to <a href="https://www.armorpaint.org">ArmorPaint</a> after being awarded a <a href="https://www.youtube.com/watch?v=M1X2Qdz8QDc">EpicMegaGrant</a> by Epic Games<br />(company of Unreal Engine)<br />Current development is maintained by community contributors</td>
-    <td>A spin-off of Blender's old Game Engine<br />Original creator, <a href="https://www.github.com/panzergame">Tristan Porteries</a>, stopped development after internal disagreements with the organization team and additionally some in-real-life distractions<br />The project is maintained by community contributors</td>
+    <td>A spin-off of Blender's old Game Engine<br />Original creator, <a href="https://www.github.com/panzergame">Tristan Porteries</a>, stopped development after internal disagreements with the organization team, external & internal pressure, and additionally some in-real-life distractions<br />The project is maintained by community contributors</td>
   </tr>
   <!-- Development Roadmap -->
   <tr align="center">
     <td>Development Roadmap</td>
-    <td>No exact roadmap is specified except for monthly contributions</td>
+    <td>No exact roadmap is specified except for monthly core & bug-fix contributions by the community</td>
     <td>Only bug fixes - awaiting Blender developers for Vulkan Port, EEVEE Rewrite & Real-Time Compositing Nodes</td>
   </tr>
   <!-- Development Team -->
@@ -49,8 +49,14 @@
   <!-- Learning -->
   <tr align="center">
     <td>Learning</td>
-    <td>Some tutorials; many are outdated.<br />Mnual is up to date however and is actively maintained.</td>
+    <td>Some tutorials, many are outdated.<br />Mnual is up to date however and is actively maintained.</td>
     <td>Very many tutorials, but most are outdated or simply incompatible due to UPBGE 0.2.x/0.3.x version variations.<br />Official Blender tutorials work well with UPBGE 0.3+ versions however. And new tutorials are being made by several contributors arbitrarily time to time.</td>
+  </tr>
+  <!-- Showcase -->
+  <tr align="center">
+    <td>Showcase</td>
+    <td>Not exactly many "made with Armory3D" AAA game examples to direct people to except for the official <a href="https://www.github.com/armory3d/armory/wiki/Games-made-with-Armory">wiki games list</a><br />This may be caused by the game-engine being relatively new and/or rumors that development is dead; which it's not, at least not fully so<br />There is however an impressive collection of real-time, browser <a href="https://armory3d.github.io/armory_examples_browser/">demo examples</a> available to the public</td>
+    <td>Being a fork of Blender's former Game Engine, UPBGE has a good and semi-long history of making AAA quality games<br />However, performance has always been one of the major negatives surrounding, thus preventing it for professional usage in the long term<br />This doesn't mean it's not bad for short-term, personal projects however!!</td>
   </tr>
   <!-- Blender Compatibility -->
   <tr align="center">
@@ -67,7 +73,7 @@
   <!-- Runtime Compatibility -->
   <tr align="center">
     <td>Runtime Compatibility</td>
-    <td>Compatibility differences between Blender & Armory Player are high<br />Additional unsupported elements can be seen <a href="https://www.github.com/armory3d/armory/wiki/supported_nodes">here</a> & <a href="https://www.github.com/armory3d/armory/wiki/supported_particles">here</a></td>
+    <td>Compatibility differences between Blender & Armory Player are moderately high<br />Additional unsupported elements can be seen <a href="https://www.github.com/armory3d/armory/wiki/supported_nodes">here</a> & <a href="https://www.github.com/armory3d/armory/wiki/supported_particles">here</a></td>
     <td>Impressive ~95% Blender graphics compatibility<br />at runtime including BPY code!</td>
   </tr>
   <!-- Supported Platforms -->

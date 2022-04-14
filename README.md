@@ -76,6 +76,12 @@
     <td>Compatibility differences between Blender & Armory Player are moderately high<br />Additional unsupported elements can be seen <a href="https://www.github.com/armory3d/armory/wiki/supported_nodes">here</a> & <a href="https://www.github.com/armory3d/armory/wiki/supported_particles">here</a></td>
     <td>Impressive ~95% Blender graphics compatibility<br />at runtime including BPY code!</td>
   </tr>
+  <!-- Software Reliability -->
+  <tr align="center">
+    <td>Software Reliability</td>
+    <td>Tends to crash a lot</a></td>
+    <td>Moderately bug free</td>
+  </tr>
   <!-- Supported Platforms -->
   <tr align="center">
     <td>Supported Platforms</td>

@@ -79,7 +79,7 @@
   <!-- Software Reliability -->
   <tr align="center">
     <td>Software Reliability</td>
-    <td>Tends to crash a lot</a></td>
+    <td>Tends to crash a lot</td>
     <td>Moderately bug free</td>
   </tr>
   <!-- Supported Platforms -->

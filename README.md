@@ -70,6 +70,7 @@
       <a href="https://www.upbge.org/#/documentation/docs/latest/manual/manual/about/license.html">UPBGE</a> (GNU GPL)<br />
       <a href="https://www.blender.org/support/faq/">Embedded Player</a> (No GPL)<br />
       <a href="https://www.upbge.org/#/documentation/docs/latest/manual/manual/release/licensing.html">Standalone Player</a> (GNU GPL)
+    </td>
   </tr>
   <!-- Blender Compatibility -->
   <tr align="center">

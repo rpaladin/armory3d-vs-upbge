@@ -58,6 +58,19 @@
     <td>Not exactly many "made with Armory3D" AAA game examples to direct people to except for the official <a href="https://www.github.com/armory3d/armory/wiki/Games-made-with-Armory">wiki games list</a><br />This may be caused by the game-engine being relatively new and/or rumors that development is dead; which it's not, at least not fully so<br />There is however an impressive collection of real-time, browser <a href="https://armory3d.github.io/armory_examples_browser/">demo examples</a> available to the public</td>
     <td>Being a fork of Blender's former Game Engine, UPBGE has a good and semi-long history of making AAA quality games<br />However, performance has always been one of the major negatives surrounding, thus preventing it for professional usage in the long term<br />This doesn't mean it's not bad for short-term, personal projects however!!</td>
   </tr>
+    <!-- Licenses -->
+  <tr align="center">
+    <td>Licenses</td>
+    <td>
+      <a href="https://www.github.com/armory3d/armory/blob/master/blender/arm/LICENSE.md">Blender Add-On</a> (GPL2)<br />
+      <a href="https://www.github.com/armory3d/armory/blob/master/LICENSE.md">Armory Player</a> (zlib/libpng)
+    </td>
+    <td>
+      <a href="https://www.blender.org/about/license/">Blender</a> (GPL2 & GPL3)<br />
+      <a href="https://www.upbge.org/#/documentation/docs/latest/manual/manual/about/license.html">UPBGE</a> (GNU GPL)<br />
+      <a href="https://www.blender.org/support/faq/">Embedded Player</a> (No GPL)<br />
+      <a href="https://www.upbge.org/#/documentation/docs/latest/manual/manual/release/licensing.html">Standalone Player</a> (GNU GPL)
+  </tr>
   <!-- Blender Compatibility -->
   <tr align="center">
     <td>Blender Compatibility</td>

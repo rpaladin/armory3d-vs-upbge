@@ -25,13 +25,13 @@
    <!-- Development Status -->
   <tr align="center">
     <td>Development Status</td>
-    <td>Original creator, <a href="https://www.github.com/luboslenco">Lubos Lenco</a>, has moved on to <a href="https://www.armorpaint.org">ArmorPaint</a> after being awarded a <a href="https://www.youtube.com/watch?v=M1X2Qdz8QDc">EpicMegaGrant</a> by Epic Games<br />(company of Unreal Engine)<br />Current development is maintained by community contributors</td>
-    <td>A spin-off of Blender's old Game Engine<br />Original creator, <a href="https://www.github.com/panzergame">Tristan Porteries</a>, stopped development after internal disagreements with the organization team, external & internal pressure, and additionally some in-real-life distractions<br />The project is maintained by community contributors</td>
+    <td>Creator of Armory3D has recently <a href="https://blenderartists.org/uploads/default/original/4X/d/4/1/d41903ee58f7960b714119b5f4005bdd5997a1ff.png">returned</a> to development<br />Original creator, <a href="https://www.github.com/luboslenco">Lubos Lenco</a>, has in the past moved on to <a href="https://www.armorpaint.org">ArmorPaint</a> after being awarded a <a href="https://www.youtube.com/watch?v=M1X2Qdz8QDc">EpicMegaGrant</a> by Epic Games<br />(company of Unreal Engine)<br />Past development has been maintained by community contributors</td>
+    <td>youle, one of the top, core developers has <a href="https://blenderartists.org/uploads/default/optimized/4X/a/e/c/aeca71de34bae872b005d7739cde99fbb1d14713_2_690x280.png">quit</a> for the 5th time<br />UPBGE is a spin-off of Blender 3D's old Game Engine<br />Original creator, <a href="https://www.github.com/panzergame">Tristan Porteries</a>, stopped development after internal disagreements with the organization team, external & internal pressure and additionally some in-real-life distractions<br />The project is maintained by community contributors</td>
   </tr>
   <!-- Development Roadmap -->
   <tr align="center">
     <td>Development Roadmap</td>
-    <td>No exact roadmap is specified except for monthly core & bug-fix contributions by the community</td>
+    <td>Implement <a href="https://github.com/armory3d/armory/issues/1545#issue-549147917">2020 roadmap</a> + monthly core & bug-fix contributions by the community</td>
     <td>Only bug fixes - awaiting Blender developers for Vulkan Port, EEVEE Rewrite & Real-Time Compositing Nodes</td>
   </tr>
   <!-- Development Team -->

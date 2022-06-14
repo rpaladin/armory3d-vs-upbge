@@ -32,7 +32,7 @@
   <tr align="center">
     <td>Development Roadmap</td>
     <td>Implement <a href="https://github.com/armory3d/armory/issues/1545#issue-549147917">2020 roadmap</a> + monthly core & bug-fix contributions by the community</td>
-    <td>Only bug fixes - awaiting Blender developers for Vulkan Port, EEVEE Rewrite & Real-Time Compositing Nodes</td>
+    <td>Only bug fixes - awaiting Blender developers for EEVEE Next port, Vulkan port, & Real-Time Compositing Nodes</td>
   </tr>
   <!-- Development Team -->
   <tr align="center">

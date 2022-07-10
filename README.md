@@ -26,7 +26,7 @@
   <tr align="center">
     <td>Development Status</td>
     <td><a href="https://www.github.com/luboslenco">Lubos Lenco</a>, creator of Armory3D has mostly moved on to developing <a href="https://www.armorpaint.org">ArmorPaint</a> after being awarded a <a href="https://www.youtube.com/watch?v=M1X2Qdz8QDc">EpicMegaGrant</a> by Epic Games<br />(company of Unreal Engine)<br />Armory3D development is still actively maintained by community developers and contributors</td>
-    <td>UPBGE is a spin-off of the former popular Blender3D game-engine<br />Original creator, <a href="https://www.github.com/panzergame">Tristan Porteries</a>, stopped development back in 2018 due to some internal disagreements with the organization team<br />The project is still actively maintained by community developers and contributors</td>
+    <td>UPBGE is a spin-off of the former popular Blender3D game-engine<br />Original creator, <a href="https://www.github.com/panzergame">Tristan Porteries</a>, stopped development back in 2018 due to some internal disagreements with his team<br />The project is still actively maintained by community developers and contributors</td>
   </tr>
   <!-- Development Roadmap -->
   <tr align="center">

@@ -25,8 +25,8 @@
    <!-- Development Status -->
   <tr align="center">
     <td>Development Status</td>
-    <td>Creator of Armory3D has recently <a href="https://blenderartists.org/uploads/default/original/4X/d/4/1/d41903ee58f7960b714119b5f4005bdd5997a1ff.png">returned</a> to development<br />Original creator, <a href="https://www.github.com/luboslenco">Lubos Lenco</a>, has in the past moved on to <a href="https://www.armorpaint.org">ArmorPaint</a> after being awarded a <a href="https://www.youtube.com/watch?v=M1X2Qdz8QDc">EpicMegaGrant</a> by Epic Games<br />(company of Unreal Engine)<br />Past development has been maintained by community contributors</td>
-    <td>youle, one of the top, core developers has <a href="https://blenderartists.org/uploads/default/optimized/4X/a/e/c/aeca71de34bae872b005d7739cde99fbb1d14713_2_690x280.png">quit</a> for the 5th time<br />UPBGE is a spin-off of Blender 3D's old Game Engine<br />Original creator, <a href="https://www.github.com/panzergame">Tristan Porteries</a>, stopped development after internal disagreements with the organization team, external & internal pressure and additionally some in-real-life distractions<br />The project is maintained by community contributors</td>
+    <td><a href="https://www.github.com/luboslenco">Lubos Lenco</a>, creator of Armory3D has mostly moved on to developing <a href="https://www.armorpaint.org">ArmorPaint</a> after being awarded a <a href="https://www.youtube.com/watch?v=M1X2Qdz8QDc">EpicMegaGrant</a> by Epic Games<br />(company of Unreal Engine)<br />Armory3D development is still actively maintained by community developers and contributors</td>
+    <td>UPBGE is a spin-off of the former popular Blender3D game-engine<br />Original creator, <a href="https://www.github.com/panzergame">Tristan Porteries</a>, stopped development back in 2018 due to some internal disagreements with the organization team<br />The project is still actively maintained by community developers and contributors</td>
   </tr>
   <!-- Development Roadmap -->
   <tr align="center">

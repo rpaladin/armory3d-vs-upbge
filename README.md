@@ -49,7 +49,7 @@
   <!-- Learning -->
   <tr align="center">
     <td>Learning</td>
-    <td>Some tutorials, many are outdated.<br />Mnual is up to date however and is actively maintained.</td>
+    <td>Some tutorials, many are outdated.<br />Manual is up to date however and is actively maintained.</td>
     <td>Very many tutorials, but most are outdated or simply incompatible due to UPBGE 0.2.x/0.3.x version variations.<br />Official Blender tutorials work well with UPBGE 0.3+ versions however. And new tutorials are being made by several contributors arbitrarily time to time.</td>
   </tr>
   <!-- Showcase -->
@@ -75,8 +75,8 @@
   <!-- Blender Compatibility -->
   <tr align="center">
     <td>Blender Compatibility</td>
-    <td>Blender 2.93.8 LTS<br />&<br />Blender 2.79 <a href="https://github.com/armory3d/armsdk/releases?q=0&expanded=true">(legacy/outdated)</a></td>
-    <td>Blender 3.2 (Alpha)<br />&<br />Blender 2.79.7 (outdated/legacy)</td>
+    <td>Blender 2.93.9 LTS<br />&<br />Blender 2.79 <a href="https://github.com/armory3d/armsdk/releases?q=0&expanded=true">(legacy/outdated)</a></td>
+    <td>Blender 3.3 (Alpha)<br />&<br />Blender 2.79.7 (outdated/legacy)</td>
   </tr>
   <!-- Integration Method -->
   <tr align="center">
@@ -88,13 +88,13 @@
   <tr align="center">
     <td>Runtime Compatibility</td>
     <td>Compatibility differences between Blender & Armory Player are moderately high<br />Additional unsupported elements can be seen <a href="https://www.github.com/armory3d/armory/wiki/supported_nodes">here</a> & <a href="https://www.github.com/armory3d/armory/wiki/supported_particles">here</a></td>
-    <td>Impressive ~95% Blender graphics compatibility<br />at runtime including BPY code!</td>
+    <td>Impressive ~90% Blender graphics compatibility<br />at runtime including BPY code!</td>
   </tr>
   <!-- Software Reliability -->
   <tr align="center">
     <td>Software Reliability</td>
-    <td>Tends to crash a lot</td>
-    <td>Moderately bug free</td>
+    <td>Crashes and errors tend to be high; on all operating systems</td>
+    <td>Mostly bug free; on Windows, but has some packaging errors on other operating systems</td>
   </tr>
   <!-- Supported Platforms -->
   <tr align="center">

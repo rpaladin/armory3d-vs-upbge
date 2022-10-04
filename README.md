@@ -37,8 +37,25 @@
   <!-- Development Team -->
   <tr align="center">
     <td>Development Team</td>
-    <td><a href="https://github.com/luboslenco">luboslenco</a>, <a href="https://www.github.com/MoritzBrueckner">MoritzBrueckner</a>, <a href="https://www.github.com/tong">tong</a>, <a href="https://www.github.com/QuantumCoderQC">QuantumCoderQC</a><br /><a href="https://www.github.com/Naxela">Naxela</a>, <a href="https://github.com/knowledgenude">knowledgenude</a>, <a href="https://www.github.com/rpaladin">RPaladin</a></td>
-      <td><a href="https://www.github.com/youle31">youle31</a>, <a href="https://www.github.com/lordloki">lordloki</a>, <a href="https://www.github.com/izazed">izazed</a>, <a href="https://www.github.com/mysticfall">mysticfall</a>, <a href="https://github.com/EndSSgamesStudio">rafael13</a></td></td>
+    <td>
+      <a href="https://github.com/luboslenco">Lubos Lenco</a>,
+      <a href="https://www.github.com/MoritzBrueckner">Moritz Brückner</a>,
+      <a href="https://www.github.com/QuantumCoderQC">QuantumCoderQC</a>,<br />
+      <a href="https://www.github.com/Naxela">Alexander Kleemann</a>,
+      <a href="https://www.github.com/tong">tong</a>,
+      <a href="https://https://github.com/Onek8">1k8</a>,
+      <a href="https://github.com/knowledgenude">knowledgenude</a>,
+      <a href="https://www.github.com/rpaladin">RPaladin</a>
+    </td>
+    <td>
+      <a href="https://www.github.com/youle31">youle31</a>,
+      <a href="https://www.github.com/lordloki">lordloki</a>,
+      <a href="https://www.github.com/izazed">Leopold A-C</a>,<br />
+      <a href="https://www.github.com/mysticfall">Xavier Cho</a>,
+      <a href="https://github.com/blueprintrandom">Jacob Merrill</a>,
+      <a href="https://github.com/unidaystudio">Uniday Studio</a>,
+      <a href="https://github.com/SenhorPatolino">SenhorPatolino</a>
+    </td>
   </tr>
   <!-- Community -->
   <tr align="center">

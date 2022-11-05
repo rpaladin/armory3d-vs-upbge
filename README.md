@@ -19,8 +19,36 @@
   <!-- Blender Foundation Support -->
   <tr align="center">
     <td>Blender Foundation Support</td>
-    <td><a href="https://www.youtube.com/watch?v=EaMT6Nyu79w">Officially</a></td>
-    <td><a href="https://www.youtube.com/watch?v=hS7iV3NfddI&start=512">Unofficially</a></td>
+    <td>
+      <a href="https://www.youtube.com/watch?v=EaMT6Nyu79w">Blender Conference</a> talk<br />
+      <a href="https://www.blender.org/press/blender-projects-in-2018-to-look-forward-to/#blender-game-engine">Suggested</a> BGE alternative
+    </td>
+    <td>
+      <a href="https://www.youtube.com/watch?v=hS7iV3NfddI&start=512">Blender Today</a> (live)<br />
+      <a href="https://www.blender.org/press/blender-projects-in-2018-to-look-forward-to/#blender-game-engine">Suggested</a> BGE alternative
+    </td>
+  </tr>
+   <!-- Biggest Strengths -->
+  <tr align="center">
+    <td>Biggest Strengths</td>
+    <td>
+      Export to almost any device imaginable, thanks to <a href="http://kha.tech">Kha</a>
+    </td>
+    <td>
+      Fully integrated, real-time, no compile needed, game testing in a Blender 3D Viewport
+    </td>
+  </tr>
+   <!-- Biggest Weaknesses -->
+  <tr align="center">
+    <td>Biggest Weaknesses</td>
+    <td>
+      Frustratingly long compiling times (several seconds, depending on cache level)<br />
+			Missing a lot of Blender's functionality such as: geometry-nodes, modifiers, some material shaders, etc.
+    </td>
+    <td>
+      GNU GPL license<br />
+			Very few export options
+    </td>
   </tr>
    <!-- Development Status -->
   <tr align="center">
@@ -78,8 +106,8 @@
   <!-- Learning -->
   <tr align="center">
     <td>Learning</td>
-    <td>Some tutorials, many are outdated.<br />Manual is up to date however and is actively maintained.</td>
-    <td>Very many tutorials, but most are outdated or simply incompatible due to UPBGE 0.2.x/0.3.x version variations.<br />Official Blender tutorials work well with UPBGE 0.3+ versions however. And new tutorials are being made by several contributors arbitrarily time to time.</td>
+    <td>Some tutorials, many are outdated.<br />Manual is up to date however and is actively maintained</td>
+    <td>Many tutorials, but most are outdated or simply incompatible due to UPBGE 0.2.x/0.3.x version variations.<br />Official Blender tutorials work well with UPBGE 0.3+ versions however. And new tutorials are being made by several contributors arbitrarily time to time</td>
   </tr>
   <!-- Showcase -->
   <tr align="center">
@@ -91,7 +119,7 @@
   <tr align="center">
     <td>Licenses</td>
     <td>
-      <a href="https://www.github.com/armory3d/armory/blob/master/blender/arm/LICENSE.md">Blender Add-On</a> (GPL2)<br />
+      <a href="https://www.github.com/armory3d/armory/blob/master/blender/arm/LICENSE.md">Blender add-on</a> (GNU GPL2)<br />
       <a href="https://www.github.com/armory3d/armory/blob/master/LICENSE.md">Armory Player</a> (zlib/libpng)
     </td>
     <td>
@@ -104,14 +132,16 @@
   <!-- Blender Compatibility -->
   <tr align="center">
     <td>Blender Compatibility</td>
-    <td>Blender 2.93.9 LTS<br />&<br />Blender 2.79 <a href="https://github.com/armory3d/armsdk/releases?q=0&expanded=true">(legacy/outdated)</a></td>
-    <td>Blender 3.3 (Alpha)<br />&<br />Blender 2.79.7 (outdated/legacy)</td>
+    <td>Blender 3.3 LTS<br />
+			Blender 2.79 <a href="https://github.com/armory3d/armsdk/releases?q=0&expanded=true">(legacy/deprecated)</a></td>
+    <td>Blender 3+<br />
+			Blender 2.79.7  <a href="https://github.com/UPBGE/upbge/releases/tag/v0.2.5b">(legacy/deprecated)</a></td>
   </tr>
   <!-- Integration Method -->
   <tr align="center">
     <td>Integration Method</td>
-    <td>Add-On</td>
-    <td>Cloned (and modified) Source</td>
+    <td>Blender add-on</td>
+    <td>Modified Blender fork</td>
   </tr>
   <!-- Runtime Compatibility -->
   <tr align="center">
@@ -122,7 +152,7 @@
   <!-- Software Reliability -->
   <tr align="center">
     <td>Software Reliability</td>
-    <td>Crashes and errors tend to be high; on all operating systems</td>
+    <td>Compiling errors tend to be high; on all operating systems</td>
     <td>Mostly bug free; on Windows, but has some packaging errors on other operating systems</td>
   </tr>
   <!-- Supported Platforms -->

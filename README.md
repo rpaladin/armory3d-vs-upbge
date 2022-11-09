@@ -42,12 +42,12 @@
   <tr align="center">
     <td>Biggest Weaknesses</td>
     <td>
-      Frustratingly long compiling times (several seconds, depending on cache level)<br />
-			Missing a lot of Blender's functionality such as: geometry-nodes, modifiers, some material shaders, etc.
+      Long compiling times (depending on cache)<br />
+      Missing some Blender functionality such as: geometry-nodes, modifiers, some material shaders, etc.
     </td>
     <td>
-      GNU GPL license<br />
-			Very few export options
+      Strict GNU GPL license<br />
+      Very few export options
     </td>
   </tr>
    <!-- Development Status -->

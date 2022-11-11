@@ -21,11 +21,11 @@
     <td>Blender Foundation Support</td>
     <td>
       <a href="https://www.youtube.com/watch?v=EaMT6Nyu79w">Blender Conference</a> talk<br />
-      <a href="https://www.blender.org/press/blender-projects-in-2018-to-look-forward-to/#blender-game-engine">Suggested</a> BGE alternative
+      <a href="https://www.blender.org/press/blender-projects-in-2018-to-look-forward-to/#blender-game-engine">Suggested</a> Blender Game Engine alternative
     </td>
     <td>
       <a href="https://www.youtube.com/watch?v=hS7iV3NfddI&start=512">Blender Today</a> (live)<br />
-      <a href="https://www.blender.org/press/blender-projects-in-2018-to-look-forward-to/#blender-game-engine">Suggested</a> BGE alternative
+      <a href="https://www.blender.org/press/blender-projects-in-2018-to-look-forward-to/#blender-game-engine">Suggested</a> Blender Game Engine alternative
     </td>
   </tr>
    <!-- Biggest Strengths -->
@@ -35,7 +35,7 @@
       Export to almost any device imaginable, thanks to <a href="http://kha.tech">Kha</a>
     </td>
     <td>
-      Fully integrated, real-time, no compile needed, game testing in a Blender 3D Viewport
+      Fully integrated, real-time, game testing in a Blender 3D Viewport, barely any noticeable compiling time
     </td>
   </tr>
    <!-- Biggest Weaknesses -->
@@ -43,7 +43,7 @@
     <td>Biggest Weaknesses</td>
     <td>
       Long compiling times (depending on cache)<br />
-      Missing some Blender functionality such as: geometry-nodes, modifiers, some material shaders, etc.
+      Missing some Blender functionality such as: geometry-nodes, modifiers, a few material shaders, etc.
     </td>
     <td>
       Strict GNU GPL license<br />
@@ -54,35 +54,33 @@
   <tr align="center">
     <td>Development Status</td>
     <td><a href="https://www.github.com/luboslenco">Lubos Lenco</a>, creator of Armory3D has mostly moved on to developing <a href="https://www.armorpaint.org">ArmorPaint</a> after being awarded a <a href="https://www.youtube.com/watch?v=M1X2Qdz8QDc">EpicMegaGrant</a> by Epic Games<br />(company of Unreal Engine)<br />Armory3D development is still actively maintained by community developers and contributors</td>
-    <td>UPBGE is a spin-off of the former popular Blender3D game-engine<br />Original creator, <a href="https://www.github.com/panzergame">Tristan Porteries</a>, stopped development back in 2018 due to some internal disagreements with his team<br />The project is still actively maintained by community developers and contributors</td>
+    <td>UPBGE is a fork of the former Blender Game Engine<br />Original creator, <a href="https://www.github.com/panzergame">Tristan Porteries</a>, stopped development back in 2018 due to some internal disagreements with the rest of the UPBGE team<br />The project is still actively maintained by community developers and contributors</td>
   </tr>
   <!-- Development Roadmap -->
   <tr align="center">
     <td>Development Roadmap</td>
-    <td>Implement <a href="https://github.com/armory3d/armory/issues/1545#issue-549147917">2020 roadmap</a> + monthly core & bug-fix contributions by the community</td>
-    <td>Only bug fixes - awaiting Blender developers for EEVEE Next port, Vulkan port, & Real-Time Compositing Nodes</td>
+    <td>Implement <a href="https://github.com/armory3d/armory/issues/1545#issue-549147917">2020 roadmap</a> + monthly core & bug-fix contributions by community developers and contributors</td>
+    <td>Only bug fixes - awaiting Blender developers for Vulkan port</td>
   </tr>
-  <!-- Development Team -->
+  <!-- Development Team (active) -->
   <tr align="center">
-    <td>Development Team</td>
+    <td>Development Team (active)</td>
     <td>
-      <a href="https://github.com/luboslenco">Lubos Lenco</a>,
-      <a href="https://www.github.com/MoritzBrueckner">Moritz Brückner</a>,
-      <a href="https://www.github.com/QuantumCoderQC">QuantumCoderQC</a>,<br />
-      <a href="https://www.github.com/Naxela">Alexander Kleemann</a>,
-      <a href="https://www.github.com/tong">tong</a>,
-      <a href="https://https://github.com/Onek8">1k8</a>,
-      <a href="https://github.com/knowledgenude">knowledgenude</a>,
-      <a href="https://www.github.com/rpaladin">RPaladin</a>
+      <a href="https://github.com/luboslenco">luboslenco </a> (pull reviews & fixes only),
+      <a href="https://github.com/MoritzBrueckner">MoritzBrueckner</a>,
+      <a href="https://github.com/QuantumCoderQC">QuantumCoderQC</a>,<br />
+      <a href="https://github.com/tong">tong</a>,
+      <a href="https://github.com/Naxela">Naxela</a>,
+      <a href="https://github.com/rpaladin">rpaladin</a>
+      <a href="https://github.com/Onek8">Onek8</a>,
+      <a href="https://github.com/knowledgenude">knowledgenude</a> (inactive)
     </td>
     <td>
-      <a href="https://www.github.com/youle31">youle31</a>,
-      <a href="https://www.github.com/lordloki">lordloki</a>,
-      <a href="https://www.github.com/izazed">Leopold A-C</a>,<br />
-      <a href="https://www.github.com/mysticfall">Xavier Cho</a>,
-      <a href="https://github.com/blueprintrandom">Jacob Merrill</a>,
-      <a href="https://github.com/unidaystudio">Uniday Studio</a>,
-      <a href="https://github.com/SenhorPatolino">SenhorPatolino</a>
+      <a href="https://github.com/youle31">youle31</a>,
+      <a href="https://github.com/lordloki">lordloki</a>,
+      <a href="https://github.com/izazed">izazed</a> (logic nodes only),<br />
+      <a href="https://github.com/mysticfall">mysticfall</a>,
+      <a href="https://github.com/blueprintrandom">blueprintrandom</a> (support only)
     </td>
   </tr>
   <!-- Community -->
@@ -123,9 +121,8 @@
       <a href="https://www.github.com/armory3d/armory/blob/master/LICENSE.md">Armory Player</a> (zlib/libpng)
     </td>
     <td>
-      <a href="https://www.blender.org/about/license/">Blender</a> (GPL2 & GPL3)<br />
+      <a href="https://www.blender.org/about/license/">Blender source</a> (GPL2 & GPL3)<br />
       <a href="https://www.upbge.org/#/documentation/docs/latest/manual/manual/about/license.html">UPBGE</a> (GNU GPL)<br />
-      <a href="https://www.blender.org/support/faq/">Embedded Player</a> (No GPL)<br />
       <a href="https://www.upbge.org/#/documentation/docs/latest/manual/manual/release/licensing.html">Standalone Player</a> (GNU GPL)
     </td>
   </tr>
@@ -141,7 +138,7 @@
   <tr align="center">
     <td>Integration Method</td>
     <td>Blender add-on</td>
-    <td>Modified Blender fork</td>
+    <td>Blender fork</td>
   </tr>
   <!-- Runtime Compatibility -->
   <tr align="center">

@@ -71,14 +71,13 @@
       <a href="https://github.com/QuantumCoderQC">QuantumCoderQC</a>,<br />
       <a href="https://github.com/tong">tong</a>,
       <a href="https://github.com/Naxela">Naxela</a>,
-      <a href="https://github.com/rpaladin">rpaladin</a>
       <a href="https://github.com/Onek8">Onek8</a>,
-      <a href="https://github.com/knowledgenude">knowledgenude</a> (inactive)
+      <a href="https://github.com/rpaladin">rpaladin</a>
     </td>
     <td>
       <a href="https://github.com/youle31">youle31</a>,
       <a href="https://github.com/lordloki">lordloki</a>,
-      <a href="https://github.com/izazed">izazed</a> (logic nodes only),<br />
+      <a href="https://github.com/izazed">izazed</a>,<br />
       <a href="https://github.com/mysticfall">mysticfall</a>,
       <a href="https://github.com/blueprintrandom">blueprintrandom</a> (support only)
     </td>

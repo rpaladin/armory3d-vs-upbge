@@ -72,6 +72,7 @@
       <a href="https://github.com/tong">tong</a>,
       <a href="https://github.com/Naxela">Naxela</a>,
       <a href="https://github.com/Onek8">Onek8</a>,
+      <a href="https://github.com/knowledgenude">knowledgenude</a>,
       <a href="https://github.com/rpaladin">rpaladin</a>
     </td>
     <td>
@@ -79,7 +80,7 @@
       <a href="https://github.com/lordloki">lordloki</a>,
       <a href="https://github.com/izazed">izazed</a>,<br />
       <a href="https://github.com/mysticfall">mysticfall</a>,
-      <a href="https://github.com/blueprintrandom">blueprintrandom</a> (support only)
+      <a href="https://github.com/blueprintrandom">blueprintrandom</a> (community support only)
     </td>
   </tr>
   <!-- Community -->

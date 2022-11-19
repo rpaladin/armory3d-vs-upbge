@@ -130,9 +130,9 @@
   <tr align="center">
     <td>Blender Compatibility</td>
     <td>Blender 3.3 LTS<br />
-			Blender 2.79 <a href="https://github.com/armory3d/armsdk/releases?q=0&expanded=true">(legacy/deprecated)</a></td>
+    Blender 2.79 <a href="https://github.com/armory3d/armsdk/releases?q=0&expanded=true">(legacy/deprecated)</a></td>
     <td>Blender 3+<br />
-			Blender 2.79.7  <a href="https://github.com/UPBGE/upbge/releases/tag/v0.2.5b">(legacy/deprecated)</a></td>
+    Blender 2.79.7  <a href="https://github.com/UPBGE/upbge/releases/tag/v0.2.5b">(legacy/deprecated)</a></td>
   </tr>
   <!-- Integration Method -->
   <tr align="center">
@@ -161,7 +161,7 @@
   <!-- Logic Methods -->
   <tr align="center">
     <td>Logic Methods</td>
-    <td>Haxe, C, Rust, WASM, JavaScript, Logic-Nodes</td>
+    <td>Haxe, C, C++, Rust, WASM, JavaScript, Logic-Nodes</td>
     <td>Python, Python Components, Logic-Nodes, Logic-Bricks</td>
   </tr>
 </table>

@@ -21,11 +21,11 @@
     <td>Blender Foundation Support</td>
     <td>
       <a href="https://www.youtube.com/watch?v=EaMT6Nyu79w">Blender Conference</a> talk<br />
-      <a href="https://www.blender.org/press/blender-projects-in-2018-to-look-forward-to/#blender-game-engine">Suggested</a> Blender Game Engine alternative
+      Officially <a href="https://www.blender.org/press/blender-projects-in-2018-to-look-forward-to/#blender-game-engine">suggested</a> Blender Game Engine alternative
     </td>
     <td>
-      <a href="https://www.youtube.com/watch?v=hS7iV3NfddI&start=512">Blender Today</a> (live)<br />
-      <a href="https://www.blender.org/press/blender-projects-in-2018-to-look-forward-to/#blender-game-engine">Suggested</a> Blender Game Engine alternative
+      <a href="https://www.youtube.com/watch?v=hS7iV3NfddI&start=512">Blender Today</a> live<br />
+      Officially <a href="https://www.blender.org/press/blender-projects-in-2018-to-look-forward-to/#blender-game-engine">suggested</a> Blender Game Engine alternative
     </td>
   </tr>
    <!-- Biggest Strengths -->
@@ -69,10 +69,10 @@
       <a href="https://github.com/luboslenco">luboslenco </a> (pull reviews & fixes only),
       <a href="https://github.com/MoritzBrueckner">MoritzBrueckner</a>,
       <a href="https://github.com/QuantumCoderQC">QuantumCoderQC</a>,<br />
-      <a href="https://github.com/tong">tong</a>,
       <a href="https://github.com/Naxela">Naxela</a>,
+      <a href="https://github.com/tong">tong</a>,
       <a href="https://github.com/Onek8">Onek8</a>,
-      <a href="https://github.com/knowledgenude">knowledgenude</a>,
+      <a href="https://github.com/knowledgenude">knowledgenude</a> (inactive),
       <a href="https://github.com/rpaladin">rpaladin</a>
     </td>
     <td>
@@ -129,9 +129,9 @@
   <!-- Blender Compatibility -->
   <tr align="center">
     <td>Blender Compatibility</td>
-    <td>Blender 3.3 LTS<br />
+    <td>Blender 3.3+ LTS<br />
     Blender 2.79 <a href="https://github.com/armory3d/armsdk/releases?q=0&expanded=true">(legacy/deprecated)</a></td>
-    <td>Blender 3+<br />
+    <td>Blender 2.8+<br />
     Blender 2.79.7  <a href="https://github.com/UPBGE/upbge/releases/tag/v0.2.5b">(legacy/deprecated)</a></td>
   </tr>
   <!-- Integration Method -->
@@ -161,7 +161,7 @@
   <!-- Logic Methods -->
   <tr align="center">
     <td>Logic Methods</td>
-    <td>Haxe, C, C++, Rust, WASM, JavaScript, Logic-Nodes</td>
+    <td>Haxe, C, C++, Rust, WebAssembly, JavaScript, Logic-Nodes</td>
     <td>Python, Python Components, Logic-Nodes, Logic-Bricks</td>
   </tr>
 </table>

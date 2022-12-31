@@ -69,10 +69,11 @@
       <a href="https://github.com/luboslenco">luboslenco </a> (pull reviews & fixes only),
       <a href="https://github.com/MoritzBrueckner">MoritzBrueckner</a>,
       <a href="https://github.com/QuantumCoderQC">QuantumCoderQC</a>,<br />
-      <a href="https://github.com/Naxela">Naxela</a>,
-      <a href="https://github.com/tong">tong</a>,
-      <a href="https://github.com/Onek8">Onek8</a>,
       <a href="https://github.com/knowledgenude">knowledgenude</a> (inactive),
+      <a href="https://github.com/tong">tong</a>,
+      <a href="https://github.com/t3du">t3du</a>,
+      <a href="https://github.com/Onek8">Onek8</a>,
+      <a href="https://github.com/Naxela">Naxela</a>,
       <a href="https://github.com/rpaladin">rpaladin</a>
     </td>
     <td>

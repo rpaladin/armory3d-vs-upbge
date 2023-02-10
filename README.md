@@ -150,7 +150,7 @@
   <!-- Software Reliability -->
   <tr align="center">
     <td>Software Reliability</td>
-    <td>Compiling errors tend to be high; on all operating systems</td>
+    <td>Development compiling errors tend to be high on Mac and Linux (un-developed)</td>
     <td>Mostly bug free; on Windows, but has some packaging errors on other operating systems</td>
   </tr>
   <!-- Supported Platforms -->

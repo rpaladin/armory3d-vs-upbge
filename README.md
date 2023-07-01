@@ -71,10 +71,10 @@
       <a href="https://github.com/QuantumCoderQC">QuantumCoderQC</a>,<br />
       <a href="https://github.com/knowledgenude">knowledgenude</a> (inactive),
       <a href="https://github.com/t3du">t3du (inactive)</a>,
+      <a href="https://github.com/Onek8">Onek8</a>,
       <a href="https://github.com/tong">tong (inactive)</a>,
-      <a href="https://github.com/Onek8">Onek8</a> (inactive),
       <a href="https://github.com/rpaladin">rpaladin</a>,
-      <a href="https://github.com/Naxela">Naxela</a>
+      <a href="https://github.com/Naxela">Naxela (inactive)</a>
     </td>
     <td>
       <a href="https://github.com/youle31">youle31</a>,

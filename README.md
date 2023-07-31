@@ -66,21 +66,21 @@
   <tr align="center">
     <td>Development Team (active)</td>
     <td>
-      <a href="https://github.com/luboslenco">luboslenco </a> (reviews & fixes only),
+      <a href="https://github.com/luboslenco">luboslenco </a> (reviews only),
       <a href="https://github.com/MoritzBrueckner">MoritzBrueckner</a>,
       <a href="https://github.com/QuantumCoderQC">QuantumCoderQC</a>,<br />
       <a href="https://github.com/knowledgenude">knowledgenude</a> (inactive),
-      <a href="https://github.com/t3du">t3du (inactive)</a>,
+      <a href="https://github.com/t3du">t3du</a> (inactive),
       <a href="https://github.com/Onek8">Onek8</a>,
-      <a href="https://github.com/tong">tong (inactive)</a>,
+      <a href="https://github.com/tong">tong</a> (inactive),
       <a href="https://github.com/rpaladin">rpaladin</a>,
-      <a href="https://github.com/Naxela">Naxela (inactive)</a>
+      <a href="https://github.com/Naxela">Naxela</a> (inactive)
     </td>
     <td>
       <a href="https://github.com/youle31">youle31</a>,
       <a href="https://github.com/lordloki">lordloki</a>,
       <a href="https://github.com/izazed">izazed</a>,<br />
-      <a href="https://github.com/mysticfall">mysticfall</a>,
+      <a href="https://github.com/mysticfall">mysticfall (inactive)</a>,
       <a href="https://github.com/blueprintrandom">blueprintrandom</a> (community support only)
     </td>
   </tr>
@@ -130,9 +130,9 @@
   <!-- Blender Compatibility -->
   <tr align="center">
     <td>Blender Compatibility</td>
-    <td>Blender 3.3+ LTS<br />
+    <td>Latest LTS build (currently Blender 3.6.1 LTS)<br />
     Blender 2.79 <a href="https://github.com/armory3d/armsdk/releases?q=0&expanded=true">(legacy/deprecated)</a></td>
-    <td>Blender 3.0+<br />
+    <td>Latest experimental build (currently Blender 4.0.0)<br />
     Blender 2.79.7  <a href="https://github.com/UPBGE/upbge/releases/tag/v0.2.5b">(legacy/deprecated)</a></td>
   </tr>
   <!-- Integration Method -->
@@ -150,7 +150,7 @@
   <!-- Software Reliability -->
   <tr align="center">
     <td>Software Reliability</td>
-    <td>Development compiling errors tend to be high on Mac and Linux (un-developed)</td>
+    <td>Development compiling errors tend to be high on macOS and Linux (un-developed)</td>
     <td>Mostly bug free; on Windows, but has some packaging errors on other operating systems</td>
   </tr>
   <!-- Supported Platforms -->

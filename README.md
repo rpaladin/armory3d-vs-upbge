@@ -89,17 +89,17 @@
     <td>Community</td>
     <td>
       Discord member: <a href="https://discord.gg/xqrKhGjVJk">count</a><br />
-      Github followers: <a href="https://github.com/armory3d?tab=followers">count</a><br />
-      Github stars: <a href="https://github.com/armory3d/armory/stargazers">count</a><br />
-      Github watchers: <a href="https://github.com/armory3d/armory/watchers">count</a><br />
-      Github forks: <a href="https://github.com/armory3d/armory/network/members">count</a>
+      GitHub followers: <a href="https://github.com/armory3d?tab=followers">count</a><br />
+      GitHub stars: <a href="https://github.com/armory3d/armory/stargazers">count</a><br />
+      GitHub watchers: <a href="https://github.com/armory3d/armory/watchers">count</a><br />
+      GitHub forks: <a href="https://github.com/armory3d/armory/network/members">count</a>
     </td>
     <td>
       Discord member: <a href="https://discord.gg/DsTJ8Ga">count</a><br />
-      Github followers: <a href="https://github.com/upbge?tab=followers">count</a><br />
-      Github stars: <a href="https://github.com/upbge/upbge/stargazers">count</a><br />
-      Github watchers: <a href="https://github.com/upbge/upbge/watchers">count</a><br />
-      Github forks: <a href="https://github.com/upbge/upbge/network/members">count</a>
+      GitHub followers: <a href="https://github.com/upbge?tab=followers">count</a><br />
+      GitHub stars: <a href="https://github.com/upbge/upbge/stargazers">count</a><br />
+      GitHub watchers: <a href="https://github.com/upbge/upbge/watchers">count</a><br />
+      GitHub forks: <a href="https://github.com/upbge/upbge/network/members">count</a>
     </td>
   </tr>
   <!-- Learning -->

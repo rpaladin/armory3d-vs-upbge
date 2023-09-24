@@ -88,14 +88,14 @@
   <tr align="center">
     <td>Community</td>
     <td>
-      Discord member: <a href="https://discord.gg/xqrKhGjVJk">count</a><br />
       GitHub followers: <a href="https://github.com/armory3d">count</a><br />
       GitHub stars / watchers / forks: <a href="https://github.com/armory3d/armory">count</a><br />
+      Discord member: <a href="https://discord.gg/xqrKhGjVJk">count</a><br />
     </td>
     <td>
-      Discord member: <a href="https://discord.com/invite/8PcrtTJW2R">count</a><br />
       GitHub followers: <a href="https://github.com/upbge">count</a><br />
       GitHub stars / watchers / forks: <a href="https://github.com/upbge/upbge">count</a><br />
+      Discord member: <a href="https://discord.com/invite/8PcrtTJW2R">count</a><br />
     </td>
   </tr>
   <!-- Learning -->

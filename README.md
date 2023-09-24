@@ -79,8 +79,8 @@
     <td>
       <a href="https://github.com/youle31">youle31</a>,
       <a href="https://github.com/lordloki">lordloki</a>,
-      <a href="https://github.com/izazed">izazed</a>,<br />
-      <a href="https://github.com/mysticfall">mysticfall (inactive)</a>,
+      <a href="https://github.com/izazed">izazed</a> (inactive),<br />
+      <a href="https://github.com/mysticfall">mysticfall</a> (inactive),
       <a href="https://github.com/blueprintrandom">blueprintrandom</a> (community support only)
     </td>
   </tr>

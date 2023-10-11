@@ -74,7 +74,8 @@
       <a href="https://github.com/Onek8">Onek8</a>,
       <a href="https://github.com/tong">tong</a> (inactive),
       <a href="https://github.com/rpaladin">rpaladin</a>,
-      <a href="https://github.com/Naxela">Naxela</a> (inactive)
+      <a href="https://github.com/Naxela">Naxela</a> (inactive),
+      <a href="https://github.com/maitag">maitag</a>
     </td>
     <td>
       <a href="https://github.com/youle31">youle31</a>,

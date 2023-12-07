@@ -127,9 +127,9 @@
   <!-- Blender Compatibility -->
   <tr align="center">
     <td>Blender Compatibility</td>
-    <td>Latest LTS build (currently Blender 3.6.1 LTS)<br />
+    <td>Latest LTS build (currently Blender 3.6.x LTS)<br />
     Blender 2.79 <a href="https://github.com/armory3d/armsdk/releases?q=0&expanded=true">(legacy/deprecated)</a></td>
-    <td>Latest experimental build (currently Blender 4.0.0)<br />
+    <td>Latest experimental build (currently Blender 4.x)<br />
     Blender 2.79.7  <a href="https://github.com/UPBGE/upbge/releases/tag/v0.2.5b">(legacy/deprecated)</a></td>
   </tr>
   <!-- Integration Method -->
